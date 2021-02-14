@@ -1,0 +1,88 @@
+
+.body {
+    margin: 0;
+    font: normal 75% Arial, Helvetica, sans-serif;
+}
+
+.panel {
+    font-family: 'Source Sans Pro';
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    background: #eee;
+    top: 30%;
+    left: 45%;
+    margin: -110px 0 0 -100px;
+    padding: 40px;
+    border-radius: 4px;
+   
+}
+
+#username {
+    padding: 3px;
+    color: rgb(2, 14, 87);
+}
+
+input {
+    padding: 2px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    color: rgb(2, 14, 87);
+}
+
+h1 {
+    color: rgb(2, 14, 87);
+    position: center;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    display: block;
+    position: center;
+    font-size: 2em;
+    margin-block-start: 0.17em;
+    margin-block-end: 0.17em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+/*
+panel.h1 {
+    font-size: 1.8em;
+    font-weight: 700;
+    text-align: center;
+    color: #222;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.17em;
+    margin-block-end: 0.17em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+body {
+    font: normal 75% Arial, Helvetica, sans-serif;
+    display: block;
+}
+
+html {
+    -webkit-tap-highlight-color: transparent;
+}
+
+*/
+#particles-js {
+    background: rgb(2, 14, 87);
+    height: 1000px;
+}
+label {
+    color:  rgb(2, 14, 87);
+}
